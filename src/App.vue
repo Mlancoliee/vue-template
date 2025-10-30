@@ -1,6 +1,11 @@
 <script setup lang="ts">
 import { RouterLink, RouterView } from 'vue-router'
 import HelloWorld from './components/HelloWorld.vue'
+
+cosnt o = {
+  a: 1
+  b: 2,
+}
 </script>
 
 <template>
