@@ -2,11 +2,11 @@
 import { RouterLink, RouterView } from 'vue-router'
 import HelloWorld from './components/HelloWorld.vue'
 
-const o = {
-  a: 0
-  b: 1,
-  c: 2
-}
+// const o = {
+//   a: 0
+//   b: 1,
+//   c: 2
+// }
 </script>
 
 <template>
